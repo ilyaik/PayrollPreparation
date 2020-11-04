@@ -12,7 +12,7 @@ namespace PayrollPreparation
         {
             Console.WriteLine("просто для примера");
 
-            Console.WriteLine("создание 13 таска");
+            Console.WriteLine("создание 13 таска. упр. 13 должно быть совсем другим");
         }
     }
 }

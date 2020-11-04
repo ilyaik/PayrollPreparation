@@ -11,6 +11,7 @@ namespace PayrollPreparation
         static void Main(string[] args)
         {
             Console.WriteLine("просто для примера");
+            Console.WriteLine("изменил вывод данных");
         }
     }
 }

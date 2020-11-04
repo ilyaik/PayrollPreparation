@@ -11,6 +11,8 @@ namespace PayrollPreparation
         static void Main(string[] args)
         {
             Console.WriteLine("просто для примера");
+
+            Console.WriteLine("создание 13 таска");
         }
     }
 }

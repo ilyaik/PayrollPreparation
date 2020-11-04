@@ -12,7 +12,7 @@ namespace PayrollPreparation
         {
             Console.WriteLine("просто для примера");
 
-            int[] upr = { 16, 17, 18};
+            int [,] upr = { {14, 15, 16}, { 17, 18, 19} };
         }
     }
 }
